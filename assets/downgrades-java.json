@@ -1,0 +1,7 @@
+{
+  "pack_formats": {
+    "assets": "assets/pack-format-{version}.zip",
+    "format": "format-{version}.json",
+    "versions": ["9"]
+  }
+}

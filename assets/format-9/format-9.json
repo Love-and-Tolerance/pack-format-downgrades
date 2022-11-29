@@ -1,0 +1,29 @@
+{
+  "langs": {
+    "name": {
+      "remove": [
+        "item.minecraft.ender_dragon_spawn_egg",
+        "item.minecraft.wither_spawn_egg"
+      ]
+    }
+  },
+  "files": {
+    "move": [
+      {
+        "from": [
+          "assets/minecraft/textures/entity/player/slim/alex.png",
+          "assets/minecraft/textures/entity/player/wide/steve.png"
+        ],
+        "to": "assets/minecraft/textures/entity/"
+      }
+    ],
+    "copy": [
+      "assets/minecraft/textures/gui/container/creative_inventory/tabs.png",
+      "assets/minecraft/textures/entity/illager/vex*.png"
+    ],
+    "remove": [
+      "assets/minecraft/textures/entity/player/",
+      "aseets/minecraft/textures/item/bundle*.png"
+    ]
+  }
+}
