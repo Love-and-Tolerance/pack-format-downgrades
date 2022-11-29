@@ -22,8 +22,11 @@
       "assets/minecraft/textures/entity/illager/vex*.png"
     ],
     "remove": [
+      "assets/minecraft/+(blockstates|+(textures|models)/block)/chiseled_bookshelf*",
+      "assets/minecraft/textures/+(gui/hanging_sings/|entity/signs/hanging/)",
       "assets/minecraft/textures/entity/player/",
-      "aseets/minecraft/textures/item/bundle*.png"
+      "assets/minecraft/textures/item/+(bundle*|bamboo_*|*_hanging_sign).png",
+      "assets/minecraft/textures/block/+(bamboo_+(door*|fence*|mosaic|planks|trapdoor|block*)|stripped_bamboo*).png"
     ]
   }
 }
