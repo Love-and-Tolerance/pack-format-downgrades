@@ -3,7 +3,9 @@
     "*": {
       "remove": [
         "item.minecraft.ender_dragon_spawn_egg",
-        "item.minecraft.wither_spawn_egg"
+        "item.minecraft.wither_spawn_egg",
+        "item.minecraft.snow_golem_spawn_egg",
+        "item.minecraft.iron_golem_spawn_egg"
       ]
     }
   },
